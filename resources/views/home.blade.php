@@ -10,7 +10,7 @@
     <div class="text-center">
         <h1 class="display-4">Welcome!</h1>
         <p class="lead">You have successfully logged in or registered.</p>
-        <a href="welcomegi" class="btn btn-primary">Go Back</a>
+        <a href="welcome" class="btn btn-primary">Go Back</a>
     </div>
 </body>
 </html>
